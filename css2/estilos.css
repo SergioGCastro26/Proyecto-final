@@ -1,0 +1,21 @@
+body{
+    background-image: url("../img2/FONDO EUROPEO.jpg");
+    background-color: aqua;
+    font-family: calibri;
+}
+ h1{
+     font-size: 25px;
+     color: #FFFFFF;
+
+ }
+
+P{
+    color: aliceblue;
+}
+
+.uno {
+    background-color: rgb(15, 10, 80);
+    width: 60%;
+    height: 400px;
+    margin: auto;
+}

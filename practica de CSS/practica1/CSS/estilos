@@ -1,0 +1,13 @@
+body{
+    background-color: 337ca0;
+    font-family: calibri;
+}
+ h1{
+     font-size: 25px;
+     color: #FFFFFF;
+
+ }
+
+P{
+    color: FFFC31;
+}

@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: "Calibri light";
+    background-color: rgb(219, 208, 43);
+    font-family: calibri;
+}
+
+.contenedor{
+    background: tomato;
+    border-style: solid;
+    width: 80%;
+    margin: auto;
+}
+
+header{
+    height: 400px;
+    background-image: url("../img4/lakers.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+main{
+    background-color: rgb(247, 234, 117);
+    padding: 20px 30px;
+}
+
+main .foto{
+    width: 150px;
+    height: 150px;
+    background-color: teal;
+    border-radius: 50%;
+    margin: -90px 0 20px 0;
+    border: 6px solid #a716eb;
+}
+
+main .foto img{
+    width: 100%;
+    border-radius: 50%;
+}
+
+footer{
+    background-color: purple;
+    text-align: center;
+    padding: 25px;
+    color: #ffffff;
+}
+
+/****Boton*****/
+
+.boton a{
+    background: purple;
+    text-decoration: none; /*Quita subrayado*/
+    color: white;
+    font-size: 18px;
+    display: block;
+    padding: 15px 10px;
+    border-radius: 5px;
+    margin: 0 auto;
+    width: 100px;
+    margin: 15px auto;
+    text-align: center;
+}
+
+.boton a:hover{
+    background: blue;
+}
+
+
+/******Footer******/
+footer{
+    background: #020202;
+    padding: 30px;
+
+}
+
+footer p{
+    color: aqua;
+    text-align: center;
+}
